@@ -41,5 +41,3 @@ Below is a Python script that attempts to completely remove Microsoft Edge from 
 ## Disclaimer
 
 Use this script at your own risk. The author is not responsible for any damage or loss of functionality caused by removing Microsoft Edge. Always create a system restore point before running destructive scripts.
-If you use it mamby have some issuse on system 
-becarefull
